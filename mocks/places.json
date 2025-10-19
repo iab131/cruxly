@@ -1,0 +1,42 @@
+[
+  {
+    "id": "place-1",
+    "type": "gym",
+    "name": "Hub Climbing Markham",
+    "lat": 43.8561,
+    "lng": -79.3370,
+    "city": "Markham, ON"
+  },
+  {
+    "id": "place-2",
+    "type": "gym",
+    "name": "Hub Climbing Toronto",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "city": "Toronto, ON"
+  },
+  {
+    "id": "place-3",
+    "type": "gym",
+    "name": "The Rock Oasis",
+    "lat": 43.6426,
+    "lng": -79.3871,
+    "city": "Toronto, ON"
+  },
+  {
+    "id": "place-4",
+    "type": "outdoor",
+    "name": "Niagara Glen",
+    "lat": 43.0896,
+    "lng": -79.0639,
+    "city": "Niagara Falls, ON"
+  },
+  {
+    "id": "place-5",
+    "type": "gym",
+    "name": "True North Climbing",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "city": "Toronto, ON"
+  }
+]

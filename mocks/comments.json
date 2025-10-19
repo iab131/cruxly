@@ -1,0 +1,31 @@
+[
+  {
+    "id": "comment-1",
+    "problemId": "problem-1",
+    "userId": "user-2",
+    "text": "Great problem! The crimps are really technical.",
+    "createdAt": "2024-03-16T12:00:00Z"
+  },
+  {
+    "id": "comment-2",
+    "problemId": "problem-1",
+    "betaId": "beta-1",
+    "userId": "user-3",
+    "text": "Nice beta! I used a different sequence but this works well too.",
+    "createdAt": "2024-03-17T16:00:00Z"
+  },
+  {
+    "id": "comment-3",
+    "problemId": "problem-2",
+    "userId": "user-4",
+    "text": "This one is brutal! Took me 3 sessions to send.",
+    "createdAt": "2024-03-22T10:30:00Z"
+  },
+  {
+    "id": "comment-4",
+    "problemId": "problem-3",
+    "userId": "user-1",
+    "text": "Love the outdoor setting. Much more challenging than gym climbing.",
+    "createdAt": "2024-03-26T14:15:00Z"
+  }
+]

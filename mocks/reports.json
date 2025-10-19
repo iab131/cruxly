@@ -1,0 +1,26 @@
+[
+  {
+    "id": "report-1",
+    "targetType": "problem",
+    "targetId": "problem-1",
+    "userId": "user-2",
+    "reason": "Inappropriate content",
+    "createdAt": "2024-03-18T10:00:00Z"
+  },
+  {
+    "id": "report-2",
+    "targetType": "comment",
+    "targetId": "comment-1",
+    "userId": "user-3",
+    "reason": "Spam",
+    "createdAt": "2024-03-19T15:30:00Z"
+  },
+  {
+    "id": "report-3",
+    "targetType": "beta",
+    "targetId": "beta-2",
+    "userId": "user-4",
+    "reason": "Incorrect beta",
+    "createdAt": "2024-03-20T09:45:00Z"
+  }
+]

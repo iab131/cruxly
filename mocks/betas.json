@@ -1,0 +1,34 @@
+[
+  {
+    "id": "beta-1",
+    "problemId": "problem-1",
+    "userId": "user-2",
+    "type": "image",
+    "overlayPngUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop",
+    "createdAt": "2024-03-16T11:00:00Z"
+  },
+  {
+    "id": "beta-2",
+    "problemId": "problem-1",
+    "userId": "user-3",
+    "type": "video",
+    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "createdAt": "2024-03-17T15:30:00Z"
+  },
+  {
+    "id": "beta-3",
+    "problemId": "problem-2",
+    "userId": "user-1",
+    "type": "image",
+    "overlayPngUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop",
+    "createdAt": "2024-03-21T09:15:00Z"
+  },
+  {
+    "id": "beta-4",
+    "problemId": "problem-3",
+    "userId": "user-2",
+    "type": "video",
+    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4",
+    "createdAt": "2024-03-26T12:45:00Z"
+  }
+]
